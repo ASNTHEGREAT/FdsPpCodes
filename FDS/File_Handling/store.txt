@@ -1,0 +1,7 @@
+Item    Price   Quantity    Amount
+1       (input) (input)     calculate
+2
+3
+4
+5
+6
